@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Guoxinian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoshi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoshi)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/fuxuelinwudi/count.svg" />
+</p>
+
+![Guoxinian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&theme=aura)
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&hide_border=true">
+-->
 
 
  - 🏆 2024年7月 第二届世界科学智能大赛逻辑推理赛道 - 复杂推理能力评估 - 14/2815
