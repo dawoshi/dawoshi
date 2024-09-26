@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 
 
 ![Guoxinian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&theme=aura)
-<!--
 <img src="https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&hide_border=true">
--->
 
 
-# Award Record
+## Award Record
 
  - 🏆 2024年7月 第二届世界科学智能大赛逻辑推理赛道 - 复杂推理能力评估 - 14/2815
  - 🏆 2024年6月 AFAC2024挑战组 - 赛题二 - 基于保险条款的问答 - 8/908
