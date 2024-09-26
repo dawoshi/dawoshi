@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ![Guoxinian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&theme=aura)
-<img src="https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&hide_border=true">
+
 
 
 ## Award Record
