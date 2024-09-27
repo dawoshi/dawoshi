@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Guoxinian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoshi&show_icons=true&theme=aura)
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?                              username=dawoshi&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,  52fa5a,4dfcff,c64dff"/>
+
 
 
 ## Award Record
