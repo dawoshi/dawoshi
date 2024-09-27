@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoshi&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoshi&layout=compact)](https://github.com/dawoshi/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoshi&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)](https://github.com/dawoshi/github-readme-stats)
 
 
 ## Award Record
